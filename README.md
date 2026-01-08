@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 # Log Analytics & Anomaly Detection – Data Engineering + ML Project
 
 This project demonstrates an end-to-end data engineering pipeline for large-scale server log analytics. It includes synthetic log generation, parsing, metric computation, anomaly detection, and visualizations, showcasing how raw log data can be transformed into actionable insights using Python.
